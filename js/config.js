@@ -58,6 +58,10 @@ const API_SITES = {
         api: 'https://cjwba.com',
         name: '华为吧资源',
     },
+    771: {
+        api: 'http://www.agenya.cn',
+        name: '771',
+    },
     jisu: {
         api: 'https://jszyapi.com',
         name: '极速资源',
