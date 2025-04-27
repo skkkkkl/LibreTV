@@ -58,9 +58,9 @@ const API_SITES = {
         api: 'https://cjwba.com',
         name: '华为吧资源',
     },
-    771: {
-        api: 'http://www.agenya.cn',
-        name: '771',
+    baiduyun: {
+        api: 'https://bdzy.tv',
+        name: '百度云',
     },
     jisu: {
         api: 'https://jszyapi.com',
