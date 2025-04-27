@@ -91,7 +91,7 @@ const API_SITES = {
     bwzy: {
         api: 'https://api.bwzym3u8.com',
         name: '百万资源',
-        adult: true
+        adult: false
     },
     souav: {
         api: 'https://api.souavzy.vip',
